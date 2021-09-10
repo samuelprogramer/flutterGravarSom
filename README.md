@@ -2,20 +2,19 @@
 
 Por ter algumas dificuldades para adaptar o codigo orignal para rodar, estou disponibilizando minha verção em flutter pronta para usar.
 
-IDE
+IDE<br>
+Android Studio<br>
 
-Android Studio
-
-flutter --version
-Flutter 2.2.1 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision 02c026b03c (4 months ago) • 2021-05-27 12:24:44 -0700
-Engine • revision 0fdb562ac8
-Tools • Dart 2.13.1
-
+flutter --version<br>
+Flutter 2.2.1 • channel stable • https://github.com/flutter/flutter.git<br>
+Framework • revision 02c026b03c (4 months ago) • 2021-05-27 12:24:44 -0700<br>
+Engine • revision 0fdb562ac8<br>
+Tools • Dart 2.13.1<br>
 
 
-Codigo orignal
-https://github.com/gyakhoe/voice_recorder
+
+Codigo orignal<br>
+https://github.com/gyakhoe/voice_recorder<br>
 
 # dependencias
 Flutter Audio Recorder (flutter_audio_recorder)<br>
