@@ -3,6 +3,7 @@
 Por ter algumas dificuldades para adaptar o codigo orignal para rodar, estou disponibilizando minha verção em flutter pronta para usar.
 
 IDE
+
 Android Studio
 
 flutter --version
